@@ -8,6 +8,14 @@
     "wonEmmy": false
   },
   {
+    "name": "Anthony Hopkins",
+    "pictureUrl": "https://image.tmdb.org/t/p/w500/jdoBTIru71FbPuHGEgox5RVmIO0.jpg",
+    "popularity": 10.273801,
+    "id": "f197b07c-c0f6-4837-a4d6-f98f8673b0e6",
+    "wonOscar": true,
+    "wonEmmy": true
+  },
+  {
     "name": "Johnny Depp",
     "pictureUrl": "https://image.tmdb.org/t/p/w500/kbWValANhZI8rbWZXximXuMN4UN.jpg",
     "popularity": 15.656534,
@@ -240,15 +248,7 @@
     "wonOscar": false,
     "wonEmmy": false
   },
-  {
-    "name": "Anthony Hopkins",
-    "pictureUrl": "https://image.tmdb.org/t/p/w500/jdoBTIru71FbPuHGEgox5RVmIO0.jpg",
-    "popularity": 10.273801,
-    "id": "f197b07c-c0f6-4837-a4d6-f98f8673b0e6",
-    "wonOscar": true,
-    "wonEmmy": true
-  },
-  {
+   {
     "name": "John Goodman",
     "pictureUrl": "https://image.tmdb.org/t/p/w500/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg",
     "popularity": 7.914248,
